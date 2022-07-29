@@ -1,0 +1,54 @@
+body {
+background-image: url(\wp3165107-light-background-wallpapers.jpg);
+background-size: 1380px 660px;
+background-repeat: no-repeat;
+margin: 0px;
+font-family: 'Bree Serif', serif;
+font-size: 1.05rem;
+}
+h3 {
+  font-family: 'Merriweather Sans', sans-serif;
+  font-size: 1.1rem;
+  color: #66BFBF;
+  padding-top: 20px;
+}
+h1 {
+  text-align: center;
+  font-family: 'Sacramento', cursive;
+  font-size: 2.25rem;
+  color: #11999E;
+  margin: auto auto 10px;
+}
+.contact-det {
+  width: 50%;
+  margin: 30px auto auto 150px;
+}
+.email {
+  margin: 0px auto 55px;
+}
+.phone {
+  margin: 55px auto;
+}
+.whatsapp {
+  margin: 55px auto;
+}
+.email-img {
+  width: 15%;
+  float: left;
+  margin-right: 40px;
+}
+.phone-img {
+  width: 12%;
+  float: left;
+  margin-right: 40px;
+  padding-left: 7px;
+  padding-right: 14px
+}
+.whatsapp-img {
+  width: 15%;
+  float: left;
+  margin-right: 40px;
+}
+.phone-des {
+  padding-top: 15px;
+}
